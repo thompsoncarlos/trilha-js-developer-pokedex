@@ -6,3 +6,5 @@ Projeto de Pokedex desenvolvido na trilha de [Formação JS Developer](https://w
 * HTML
 * CSS
 * Javascript
+
+![tela do projeto pokedex](./assets/images/pokedex.png)
